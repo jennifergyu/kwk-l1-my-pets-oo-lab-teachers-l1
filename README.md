@@ -19,5 +19,5 @@ and build out your classes. Let the tests guide how to build your classes.
 ### Resources
 
 [Sandi Metz's Practical Object-Oriented Design in Ruby: An Agile Primer](http://books.flatironschool.com/books/102) - [Chapters 1 and 2](http://books.flatironschool.com/books/102?page=48), page 26
-
+g
 <p data-visibility='hidden'>KWK-L1 Objective</p>
